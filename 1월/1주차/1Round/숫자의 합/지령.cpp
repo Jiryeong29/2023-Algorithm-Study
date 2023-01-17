@@ -7,7 +7,7 @@ int main() {
     cin >> len >> str;
     for (int i = 0; i < len; i++) {
         int temp = str[i] - '0';
-        sum += temp;
+        
     }
     cout << sum;
 }
