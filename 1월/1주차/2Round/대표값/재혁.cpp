@@ -4,8 +4,8 @@ using namespace std;
 
 int main()
 {
-	int blank[10]; //¼ö¸¦ ´ãÀ» ºó Ä­
-	int sum = 0;	//ÇÕ
+	int blank[10]; //Â¼Ã¶Â¸Â¦ Â´Ã£Ã€Â» ÂºÃ³ Ã„Â­
+	int sum = 0;	//Ã‡Ã•
 	for (int i = 0; i < 10; i++)
 	{
 		scanf("%d", &blank[i]);
