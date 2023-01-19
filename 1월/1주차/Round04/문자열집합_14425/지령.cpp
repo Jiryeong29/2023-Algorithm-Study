@@ -1,5 +1,4 @@
-// 문자열 집합 14425
-
+// 문자열집합 14425
 #include <iostream>
 #include <string>
 #include <set>

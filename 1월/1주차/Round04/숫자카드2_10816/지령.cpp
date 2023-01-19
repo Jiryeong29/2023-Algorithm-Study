@@ -1,4 +1,4 @@
-// 푸는중..
+//숫자카드2_ 10816
 #include <vector>
 #include <iostream>
 #include <map>
