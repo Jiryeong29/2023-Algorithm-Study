@@ -1,4 +1,6 @@
-//숫자카드2_ 10816
+// 숫자카드2_ 10816
+// 틀린 코드 입니당 ㅠㅠ
+// 수정중...
 #include <vector>
 #include <iostream>
 #include <map>
