@@ -21,7 +21,7 @@ int main()
 	int n;
 	int m;
 	cin >> n;
-	long long* sum = new long long[n]();
+	long long* sum = new long long[n](); // long long int로 바꾸면 틀렸습니다 
 	long long arr[101] = { 0, };
 	for (int i = 0; i < n; i++) {
 		cin >> m;
