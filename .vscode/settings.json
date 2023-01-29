@@ -5,6 +5,7 @@
         "algorithm": "cpp",
         "xiosbase": "cpp",
         "set": "cpp",
-        "xstring": "cpp"
+        "xstring": "cpp",
+        "vector": "cpp"
     }
 }
