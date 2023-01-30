@@ -6,6 +6,7 @@
         "xiosbase": "cpp",
         "set": "cpp",
         "xstring": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "map": "cpp"
     }
 }
