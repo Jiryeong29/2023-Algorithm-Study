@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {
+    
 	ios_base::sync_with_stdio(0);
 	cin.tie(0); cout.tie(0);
 
@@ -14,7 +15,7 @@ int main()
 
 	cout << "<";
 
-	while (!q.empty()) {
+	while (q.size()>1) {
 		for (int i = 1; i < k; i++) {
 			int tmp = q.front();
 			q.pop();
@@ -24,3 +25,4 @@ int main()
 		q.pop();
 	}
 	cout << q.front() << ">\n";
+}
