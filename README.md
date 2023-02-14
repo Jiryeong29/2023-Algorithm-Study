@@ -21,19 +21,19 @@ Issue에는 질문이나 좋은 정보 등 다양한 주제로 라벨을 붙여�
 | 04 | 집합과 맵 | [10816](https://www.acmicpc.net/problem/10816)   |  [14425](https://www.acmicpc.net/problem/14425) | [1764](https://www.acmicpc.net/problem/1764) | [11478](https://www.acmicpc.net/problem/11478) |
 | 05 | 소수, 에라토스테네스의 체 | [1929](https://www.acmicpc.net/problem/1929) | [2581](https://www.acmicpc.net/problem/2581) | [4134](https://www.acmicpc.net/problem/2960)  | [4134](https://www.acmicpc.net/problem/4134)  |
 | 06 | 소수 응용 | [4948](https://www.acmicpc.net/problem/4948) | [9020](https://www.acmicpc.net/problem/9020) |  |  |
-| 07 | 유클리드 호제법 | https://www.acmicpc.net/problem/1934  | https://www.acmicpc.net/problem/3036   | https://www.acmicpc.net/problem/9613  |  |
-| 08 | 정렬 | https://www.acmicpc.net/problem/2750  |  https://www.acmicpc.net/problem/2587    | https://www.acmicpc.net/problem/25305   |  |
-| 09 | 정렬 |  https://www.acmicpc.net/problem/2108 | https://www.acmicpc.net/problem/1181  | https://www.acmicpc.net/problem/1427 |  |
-| 10 | 정렬 | https://www.acmicpc.net/problem/11650  | https://www.acmicpc.net/problem/11651   |  |  |
-| 11 | 재귀 | https://www.acmicpc.net/problem/10814 | https://www.acmicpc.net/problem/18870 |  |  |
-| 12 | 스택 큐 | https://www.acmicpc.net/problem/10872   | https://www.acmicpc.net/problem/10870 | https://www.acmicpc.net/problem/17478 |  |
-| 13 | 덱 | https://www.acmicpc.net/problem/1874 | https://www.acmicpc.net/problem/1021 | https://www.acmicpc.net/problem/5430  |  |
-| 14 | 브루트포스 | https://www.acmicpc.net/problem/7568 | https://www.acmicpc.net/problem/1436  | https://www.acmicpc.net/problem/3085 | https://www.acmicpc.net/problem/1254 |
-| 15 | 그리디 | https://www.acmicpc.net/problem/11047 | https://www.acmicpc.net/problem/11399   | https://www.acmicpc.net/problem/1931 |  |
-| 16 | 이분탐색 | https://www.acmicpc.net/problem/1920  | https://www.acmicpc.net/problem/1654 |  |  |
-| 17 | 이분탐색 | https://www.acmicpc.net/problem/2805 | https://www.acmicpc.net/problem/2110 |  |  |
-| 18 | 누적합 | https://www.acmicpc.net/problem/11659  | https://www.acmicpc.net/problem/2559  |  https://www.acmicpc.net/problem/11660 |  |
-| 19 | dp | https://www.acmicpc.net/problem/24416 | https://www.acmicpc.net/problem/9461 |  |  |
-| 20 | dp | https://www.acmicpc.net/problem/1904  | https://www.acmicpc.net/problem/1912 |  |  |
-| 22 | dp | https://www.acmicpc.net/problem/1463 | https://www.acmicpc.net/problem/1149   |  |  |
-| 23 | dp | https://www.acmicpc.net/problem/10844 |  https://www.acmicpc.net/problem/9251 |  |  |
+| 07 | 유클리드 호제법 | [1934](https://www.acmicpc.net/problem/1934)  | [3036](https://www.acmicpc.net/problem/3036)   | [9613](https://www.acmicpc.net/problem/9613)  |  |
+| 08 | 정렬 | [2750](https://www.acmicpc.net/problem/2750)  |  [2587](https://www.acmicpc.net/problem/2587)   | [25305](https://www.acmicpc.net/problem/25305)   |  |
+| 09 | 정렬 |  [2108](https://www.acmicpc.net/problem/2108) | [1181](https://www.acmicpc.net/problem/1181)  | [1427](https://www.acmicpc.net/problem/1427) |  |
+| 10 | 정렬 | [11650](https://www.acmicpc.net/problem/11650)  | [11651](https://www.acmicpc.net/problem/11651)   |  |  |
+| 11 | 재귀 | [10814](https://www.acmicpc.net/problem/10814) | [18870](https://www.acmicpc.net/problem/18870) |  |  |
+| 12 | 스택 큐 | [10872](https://www.acmicpc.net/problem/10872)   | [10870](https://www.acmicpc.net/problem/10870) | [17478](https://www.acmicpc.net/problem/17478) |  |
+| 13 | 덱 | [1874](https://www.acmicpc.net/problem/1874) | [1021](https://www.acmicpc.net/problem/1021) | [5430](https://www.acmicpc.net/problem/5430)  |  |
+| 14 | 브루트포스 | [7568](https://www.acmicpc.net/problem/7568) | [1436](https://www.acmicpc.net/problem/1436)  | [3085](https://www.acmicpc.net/problem/3085) | [1254](https://www.acmicpc.net/problem/1254) |
+| 15 | 그리디 | [11047](https://www.acmicpc.net/problem/11047) | [11399](https://www.acmicpc.net/problem/11399)   | [1931](https://www.acmicpc.net/problem/1931) |  |
+| 16 | 이분탐색 | [1920](https://www.acmicpc.net/problem/1920)  | [1654](https://www.acmicpc.net/problem/1654) |  |  |
+| 17 | 이분탐색 | [2805](https://www.acmicpc.net/problem/2805) | [2110](https://www.acmicpc.net/problem/2110) |  |  |
+| 18 | 누적합 | [11659](https://www.acmicpc.net/problem/11659)  | [2559](https://www.acmicpc.net/problem/2559)  |  [11660](https://www.acmicpc.net/problem/11660) |  |
+| 19 | dp | [24416](https://www.acmicpc.net/problem/24416) | [9461](https://www.acmicpc.net/problem/9461) |  |  |
+| 20 | dp | [1904](https://www.acmicpc.net/problem/1904)  | [1912](https://www.acmicpc.net/problem/1912) |  |  |
+| 22 | dp | [1463](https://www.acmicpc.net/problem/1463) | [1149](https://www.acmicpc.net/problem/1149)   |  |  |
+| 23 | dp | [10844](https://www.acmicpc.net/problem/10844) |  [9251](https://www.acmicpc.net/problem/9251) |  |  |
