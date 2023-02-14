@@ -15,8 +15,8 @@ Issue에는 질문이나 좋은 정보 등 다양한 주제로 라벨을 붙여�
 
 | 회차 | 문제유형 | 문제이름 | 문제이름 | 문제이름 | 문제이름 |
 | --- | --- | --- | --- | --- | --- |
-| 01 | 입출력 | [11720](https://www.acmicpc.net/problem/11720) | [9498](https://www.acmicpc.net/problem/9498) | [11655](https://www.acmicpc.net/problem/11655)  | https://www.acmicpc.net/problem/1316  |
-| 02 | 배열 | https://www.acmicpc.net/problem/2592  | https://www.acmicpc.net/problem/1924  | https://www.acmicpc.net/problem/2846  |  |
+| 01 | 입출력 | [11720](https://www.acmicpc.net/problem/11720) | [9498](https://www.acmicpc.net/problem/9498) | [11655](https://www.acmicpc.net/problem/11655)  | [1313](https://www.acmicpc.net/problem/1316)  |
+| 02 | 배열 | [2592](https://www.acmicpc.net/problem/2592)  | [1924](https://www.acmicpc.net/problem/1924) | [2846](https://www.acmicpc.net/problem/2846)  |  |
 | 03 | set, 기본수학 | https://www.acmicpc.net/problem/10815 | https://www.acmicpc.net/problem/1193 | https://www.acmicpc.net/problem/10250 | https://www.acmicpc.net/problem/2839 |
 | 04 | 집합과 맵 | https://www.acmicpc.net/problem/10816   |  https://www.acmicpc.net/problem/14425 | https://www.acmicpc.net/problem/1764 | https://www.acmicpc.net/problem/11478 |
 | 05 | 소수, 에라토스테네스의 체 | https://www.acmicpc.net/problem/1929 | https://www.acmicpc.net/problem/2581 | https://www.acmicpc.net/problem/2960  | https://www.acmicpc.net/problem/4134  |
