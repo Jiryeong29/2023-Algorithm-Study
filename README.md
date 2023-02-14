@@ -1,19 +1,18 @@
 # 2023-Algorithm-Study
-
+공부 방법Permalink
 🐣기초 탄탄 알고리즘 스터디 : 백준
 
 모이는 시간 전까지 코드는 깃허브에 올려주세요.
 Issue에는 질문이나 좋은 정보 등 다양한 주제로 라벨을 붙여서 남겨주시면 좋을 거 같아요😃
 
 ## 알고리즘 문제
-
 ---
 
 10회차 후)  재귀 -> 큐,스택 ->브루트포스 -> 그리디 -> 이분탐색 -> 누적합 -> 분할정복 -> dp -> 그래프순회 -> 백트래킹 -> 최단경로 ====⇒   이후 난이도를 올려서 다시 개념별 학습 진행 예정입니다.
 
 | 회차 | 문제유형 | 문제이름 | 문제이름 | 문제이름 | 문제이름 |
 | --- | --- | --- | --- | --- | --- |
-| 01 | 입출력 | [11720]https://www.acmicpc.net/problem/11720 | https://www.acmicpc.net/problem/9498 | https://www.acmicpc.net/problem/11655  | https://www.acmicpc.net/problem/1316  |
+| 01 | 입출력 | [11720](https://www.acmicpc.net/problem/11720 | https://www.acmicpc.net/problem/9498) | https://www.acmicpc.net/problem/11655  | https://www.acmicpc.net/problem/1316  |
 | 02 | 배열 | https://www.acmicpc.net/problem/2592  | https://www.acmicpc.net/problem/1924  | https://www.acmicpc.net/problem/2846  |  |
 | 03 | set, 기본수학 | https://www.acmicpc.net/problem/10815 | https://www.acmicpc.net/problem/1193 | https://www.acmicpc.net/problem/10250 | https://www.acmicpc.net/problem/2839 |
 | 04 | 집합과 맵 | https://www.acmicpc.net/problem/10816   |  https://www.acmicpc.net/problem/14425 | https://www.acmicpc.net/problem/1764 | https://www.acmicpc.net/problem/11478 |
