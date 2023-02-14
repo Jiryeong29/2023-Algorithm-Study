@@ -17,10 +17,10 @@ Issue에는 질문이나 좋은 정보 등 다양한 주제로 라벨을 붙여�
 | --- | --- | --- | --- | --- | --- |
 | 01 | 입출력 | [11720](https://www.acmicpc.net/problem/11720) | [9498](https://www.acmicpc.net/problem/9498) | [11655](https://www.acmicpc.net/problem/11655)  | [1313](https://www.acmicpc.net/problem/1316)  |
 | 02 | 배열 | [2592](https://www.acmicpc.net/problem/2592)  | [1924](https://www.acmicpc.net/problem/1924) | [2846](https://www.acmicpc.net/problem/2846)  |  |
-| 03 | set, 기본수학 | https://www.acmicpc.net/problem/10815 | https://www.acmicpc.net/problem/1193 | https://www.acmicpc.net/problem/10250 | https://www.acmicpc.net/problem/2839 |
-| 04 | 집합과 맵 | https://www.acmicpc.net/problem/10816   |  https://www.acmicpc.net/problem/14425 | https://www.acmicpc.net/problem/1764 | https://www.acmicpc.net/problem/11478 |
-| 05 | 소수, 에라토스테네스의 체 | https://www.acmicpc.net/problem/1929 | https://www.acmicpc.net/problem/2581 | https://www.acmicpc.net/problem/2960  | https://www.acmicpc.net/problem/4134  |
-| 06 | 소수 응용 | https://www.acmicpc.net/problem/4948 | https://www.acmicpc.net/problem/9020 |  |  |
+| 03 | set, 기본수학 | [10815](https://www.acmicpc.net/problem/10815) | [1193](https://www.acmicpc.net/problem/1193) | [10250](https://www.acmicpc.net/problem/10250) | [2839](https://www.acmicpc.net/problem/2839) |
+| 04 | 집합과 맵 | [10816](https://www.acmicpc.net/problem/10816)   |  [14425](https://www.acmicpc.net/problem/14425) | [1764](https://www.acmicpc.net/problem/1764) | [11478](https://www.acmicpc.net/problem/11478) |
+| 05 | 소수, 에라토스테네스의 체 | [1929](https://www.acmicpc.net/problem/1929) | [2581](https://www.acmicpc.net/problem/2581) | [4134](https://www.acmicpc.net/problem/2960)  | [4134](https://www.acmicpc.net/problem/4134)  |
+| 06 | 소수 응용 | [4948](https://www.acmicpc.net/problem/4948) | [9020](https://www.acmicpc.net/problem/9020) |  |  |
 | 07 | 유클리드 호제법 | https://www.acmicpc.net/problem/1934  | https://www.acmicpc.net/problem/3036   | https://www.acmicpc.net/problem/9613  |  |
 | 08 | 정렬 | https://www.acmicpc.net/problem/2750  |  https://www.acmicpc.net/problem/2587    | https://www.acmicpc.net/problem/25305   |  |
 | 09 | 정렬 |  https://www.acmicpc.net/problem/2108 | https://www.acmicpc.net/problem/1181  | https://www.acmicpc.net/problem/1427 |  |
