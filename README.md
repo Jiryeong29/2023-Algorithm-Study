@@ -1,7 +1,11 @@
 # 2023-Algorithm-Study
+
 ```
 이름(문제번호).cpp 이름으로 코드 올려놓으면 됩니다.
 ```
+
+노션 페이지[[바로가기]](https://confusion-dragon-e94.notion.site/428f8e4b57cc430ea132ccc94b282831)를 바탕으로 README.md를 작성하였습니다.
+
 공부 방법Permalink
 🐣기초 탄탄 알고리즘 스터디 : 백준
 
