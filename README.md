@@ -42,6 +42,9 @@ Issue에는 질문이나 좋은 정보 등 다양한 주제로 라벨을 붙여�
 | 22 | dp | [1463](https://www.acmicpc.net/problem/1463) | [1149](https://www.acmicpc.net/problem/1149)   |  |  |
 | 23 | dp | [10844](https://www.acmicpc.net/problem/10844) |  [9251](https://www.acmicpc.net/problem/9251) |  |  |
 
+
+
+
 ### ‼️규칙
 ---
 
