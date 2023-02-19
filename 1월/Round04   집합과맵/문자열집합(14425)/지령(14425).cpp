@@ -6,6 +6,8 @@
 using namespace std;
 
 int main() {
+    ios::sync_with_stdio(false); // 이거 없으니까 시간초과
+	cin.tie(0);
 	int n, m,cnt=0;
 	cin >> n >> m;
 	string str;
