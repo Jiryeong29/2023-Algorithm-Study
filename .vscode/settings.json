@@ -8,6 +8,7 @@
         "xstring": "cpp",
         "vector": "cpp",
         "map": "cpp",
-        "stack": "cpp"
+        "stack": "cpp",
+        "ostream": "cpp"
     }
 }
